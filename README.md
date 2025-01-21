@@ -1,4 +1,4 @@
-## Hi there 👋
+## We suffer more often in imagination than in reality
 
 <!--
 **urtesima/urtesima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
